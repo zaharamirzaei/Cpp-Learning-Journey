@@ -13,6 +13,8 @@ Practice using variables and constants in C++ to calculate service costs.
 ```bash
 g++ section6_carpet_cleaning.cpp -o program
 ./program
+```
+
 ## 📸 Sample Output  
 ```
 Hello, Welcome to Frank's Carpet Cleaning Service
