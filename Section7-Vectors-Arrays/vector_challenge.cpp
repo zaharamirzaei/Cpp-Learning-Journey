@@ -38,4 +38,5 @@ int main(){
 	
 	cout << "vector1 first element: "<< vector1.at(0)<<endl;
 	cout << "vector1 second element: "<< vector1.at(1)<<endl;
+	return 0;
 }
